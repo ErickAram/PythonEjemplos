@@ -6,3 +6,4 @@ a=int(input("Dame primero num:")
 b=int(input("Dame segundo num:")
 res=a+b
 print "Tu resultado es:",res
+#Bien por el programa
